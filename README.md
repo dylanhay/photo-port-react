@@ -38,6 +38,7 @@ To run locally once cloned:
 * Enter `npm start` in the CLI to launch the application
 
 ## Testing  
+* Enter `npm test` in the CLI to run the application tests
 
 ## Contribution
 Built by Dylan Hay
