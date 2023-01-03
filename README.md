@@ -3,11 +3,18 @@
 ## Description
 Photography portfolio displaying sample photos of commercial businesses, portraits, food, and landscapes.
 
+## License  
+This application is covered under the following license. Please review the link below for additional information pertaining to the license.
+    
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)  
+https://www.gnu.org/licenses/gpl-3.0
+
 ## Table of Contents
 [Deployed Application](#deployed-application)  
 [Built With](#built-with)  
 [Landing Page](#landing-page)  
-[Installation Instructions](#installation-instructions)  
+[Installation](#installation)  
+[Testing](#testing)  
 [Contribution](#contribution) 
 
 ## Deployed Application
@@ -25,11 +32,12 @@ http://dylanhay.github.io/photo-port-react
 ## Landing Page
 ![Screenshot](./src/assets/photo-port-react-land.png "Landing Page")
 
-## Installation Instructions  
-
+## Installation  
 To run locally once cloned:
-* Enter `npm install` in the command line while in the root folder to install the required npm packages
-* Enter `npm start` in the command line while in the root folder to launch the application at `http://localhost:3000/photo-port-react` in the local web browser
+* Enter `npm install` in the CLI to install the required npm packages
+* Enter `npm start` in the CLI to launch the application
+
+## Testing  
 
 ## Contribution
 Built by Dylan Hay
